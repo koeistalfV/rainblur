@@ -8,3 +8,13 @@
             <stop stop-color="#FF177B" offset="0%"></stop>
             <stop stop-color="#FFEC73" offset="100%"></stop>
         </linearGradient>
+        <linearGradient x1="37.1029741%" y1="-44.0352456%" x2="0%" y2="101.060094%" id="linearGradient-2">
+            <stop stop-color="#064AA2" offset="0%"></stop>
+            <stop stop-color="#63FFD4" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-3" d="M139,127 L5,0 C1.87378254,0.726186853 0,3.06462999 0,7 L0,127 L0,250 C0,253.338867 1.34597157,255.325411 3,256 L139,127 Z"></path>
+        <path id="path-5" d="M5.53437056,127.785198 L82.986448,85.238085 C102.059222,74.6695888 117.195851,66.282093 117.195851,66.282093 L173.520199,35.9446714 L136.02203,-0.492035149 L0.0236165533,128.524017 C1.53944448,129.011528 4.21113604,128.745054 6.29548251,127.716318"></path>
+        <linearGradient x1="78.6453125%" y1="50%" x2="2.49516972%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FF4521" offset="0%"></stop>
+            <stop stop-color="#8A33DB" offset="100%"></stop>
+        </linearGradient>
