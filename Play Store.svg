@@ -18,3 +18,13 @@
             <stop stop-color="#FF4521" offset="0%"></stop>
             <stop stop-color="#8A33DB" offset="100%"></stop>
         </linearGradient>
+        <linearGradient x1="0%" y1="-24.1863374%" x2="64.2244373%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#00A3B5" offset="0%"></stop>
+            <stop stop-color="#D6FFA1" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-9" d="M7.12902383,1.14687426 C4.54941065,-0.234702829 1.98636664,-0.629922435 -0.0869650899,-0.07134193 L134.024287,127.113403 L171.126971,92.0020155 L115.2,61.0225581 C115.2,61.0225581 62.4870167,31.817123 30.6586078,14.1823037 L7.12902383,1.14687426 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-461.000000, -270.000000)">
+            <g id="Play-Store" sketch:type="MSLayerGroup" transform="translate(461.000000, 270.000000)">
+                <rect id="background" fill="#000000" sketch:type="MSShapeGroup" x="0" y="0" width="1477" height="500" rx="60"></rect>
